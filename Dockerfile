@@ -1,4 +1,4 @@
-FROM doulet2245/main:mltbdt
+FROM doulet2245/main:mirror-leech
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
 COPY . .
